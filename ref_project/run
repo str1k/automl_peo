@@ -1,0 +1,1 @@
+python train.py -src_data "C:\Users\User\PycharmProjects\Transformer\data\english.txt" -trg_data "C:\Users\User\PycharmProjects\Transformer\data\french.txt" -src_lang en -trg_lang fr -epochs 10
